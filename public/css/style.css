@@ -1,0 +1,41 @@
+html {
+    min-height: 100%;
+  }
+  
+body {
+    margin: 100px;
+    background: linear-gradient(rgba(246, 63, 217, 0.23), rgba(39, 39, 216, 0.6)),
+      url("https://i.ibb.co/3r27PYq/annaliseart-pixabay.jpg");
+    Font-family: Consolas, monaco, monospace;
+  }
+  
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 10px 20px 40px;
+    color: #fff;
+    background-color: rgba(0, 0, 0, .6);
+  }
+  
+h2 {
+    margin: 0;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #fff;
+    line-height: 1.2;
+    font-size: 2.2em;
+    font-weight: bold;
+  }
+  
+section {
+    margin-top: 30px;
+  }
+  
+textarea {
+    height: 100px;
+  }
+  
+.button {
+    margin: 40px auto 0;
+    padding: 15px 40px;
+    border: 5px solid #fff;
+  }
